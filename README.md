@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jairo-deep-learning
 - 👀 I’m interested in machine learning, deep learning and Internet of Things projects
-- 🌱 I’m currently learning ML & DL in an advance level in order to create AI solutions for predictive maintenance
-- 💞️ I’m looking to collaborate on research groups in machine learning and deep learning
+- 🌱 I’m currently learning ML & DL in order to create AI solutions for predictive maintenance
+- 💞️ I’d like to collaborate on research groups in machine learning and deep learning
 - 📫 How to reach me ... If you want, you may find me at jvillamizarvasquez@gmail.com; jvillamizarv@yahoo.com and jvillamizar@smmsas.com
 
 <!---
